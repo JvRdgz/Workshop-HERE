@@ -1,0 +1,40 @@
+HERE
+
+- Repositorio github: https://github.com/kuberaspeaking/HERE-JS-workshop
+- URL web: https://developer.here.com/
+
+
+
+
+Coordenadas: map=40.45495,-3.66692.
+
+
+
+
+JAVASCRIPT
+These application credentials can be used to develop using the HERE Maps API for JavaScript (version 3.1 and higher). You can generate up to two API Keys for authentication purposes and rotate them as required. Usage will be reported as one application.
+
+APP ID
+Prd2D0KPkNmTiaa12NV9
+API Keys
+
+Create API key
+ There is a maximum of two keys per app. 1 of 2 keys created.
+API KEY	CREATED	STATUS	
+qTnoXKQAcv3AEsj3kS6rcmjSGWHZ84c3I6UbsYvnUCQ
+
+
+
+
+
+REST
+These application credentials can be used with HERE Location Services REST APIs. Please read the documentation about authentication for details.
+
+APP ID
+OIqFBwnb6hxpspDbfVju
+API Keys
+
+Create API key
+ There is a maximum of two keys per app. 1 of 2 keys created.
+API KEY	CREATED	STATUS	
+rhSF-OS844WDcCSGPzQ4R2D2PL9PcQ7LR1LmeYip-Zc
